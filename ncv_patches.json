@@ -2,7 +2,10 @@
   "version": "v20200426_0001",
   "patches": {
     "patch_20200426_0001": {
-      "checksum": "53a482ce23ab2d8ce01cc3031b2c25f0"
+      "checksum": "8e882a35b537a8b28ca3721310f42e47"
+    },
+    "patch_20200426_0002": {
+      "checksum": "8e882a35b537a8b28ca3721310f42e47"
     }
   }
 }
