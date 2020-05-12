@@ -1,8 +1,8 @@
 {
-  "version": "v20200503_1618",
+  "version": "v20200512_1643",
   "patches": {
-    "patch_20200503_0001": {
-      "checksum": "7df0a776d2ecf63d7161c69282918ced"
+    "patch_20200512_0001": {
+      "checksum": "853b709e971bf5943e3151b78672504a"
     }
   }
 }
